@@ -208,7 +208,10 @@ body {
 }
 
 .card {
-    width: auto;
+    /* width: auto; */
+
+
+    margin: 0 auto;
 }
 
 
